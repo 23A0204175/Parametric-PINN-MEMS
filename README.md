@@ -1,1 +1,2 @@
-This file contains the PyTorch implementation for our paper on simulating the nonlinear electromechanical coupling of MEMS beams using a dual-network Physics-Informed Neural Network (PINN).
+The source code for the proposed framework and the comparative and ablation studies presented in "A parametric physics-informed neural network framework for MEMS
+electromechanical coupling".
